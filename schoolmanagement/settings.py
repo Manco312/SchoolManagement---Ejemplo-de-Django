@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'studentreg', # Custom app para registro de estudiantes
 ]
 
 MIDDLEWARE = [
